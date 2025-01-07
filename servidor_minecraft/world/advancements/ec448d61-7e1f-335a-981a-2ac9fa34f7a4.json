@@ -248,6 +248,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-07 02:34:05 +0000",
       "porkchop": "2025-01-07 02:22:52 +0000",
       "apple": "2025-01-07 01:50:28 +0000",
       "mutton": "2025-01-07 02:18:27 +0000",
@@ -276,9 +277,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-07 02:30:18 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nightnight": {
     "criteria": {
       "nightnight": "2025-01-07 02:05:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-07 02:34:23 +0000"
     },
     "done": true
   },

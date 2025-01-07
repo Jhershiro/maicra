@@ -754,3 +754,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 02:28:18.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
 [07Jan2025 02:28:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Mine? Mine? Mine?]
 [07Jan2025 02:29:00.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aa0ed12[id=<null>,name=robizen69,properties={},legacy=false] (/127.37.56.230:35763) lost connection: Disconnected
+[07Jan2025 02:29:44.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robizen69[/127.37.56.230:59307] logged in with entity id 18322 at (29.610111512599726, 68.17675927506424, -62.95024698082057)
+[07Jan2025 02:29:44.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 joined the game
+[07Jan2025 02:30:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Getting an Upgrade]
+[07Jan2025 02:30:18.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has made the advancement [Acquire Hardware]
+[07Jan2025 02:32:19.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20002, l='ServerLevel[world]', x=-35.50, y=74.00, z=291.50]
+[07Jan2025 02:32:29.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Monster Hunter]
+[07Jan2025 02:32:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [A Strange Grave Dust]
+[07Jan2025 02:32:36.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20297, l='ServerLevel[world]', x=-7.50, y=75.00, z=319.50]
+[07Jan2025 02:32:42.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20415, l='ServerLevel[world]', x=-27.50, y=78.00, z=299.50]
+[07Jan2025 02:33:14.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=70, z=-89} BlockPos{x=-73, y=70, z=-88}
+[07Jan2025 02:33:16.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=70, z=-96} BlockPos{x=-71, y=68, z=-96}
+[07Jan2025 02:33:22.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=70, z=-89} BlockPos{x=-67, y=69, z=-90}
+[07Jan2025 02:33:22.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-69, y=70, z=-89} BlockPos{x=-70, y=69, z=-88}
+[07Jan2025 02:33:23.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=69, z=-98} BlockPos{x=-66, y=69, z=-96}
+[07Jan2025 02:33:23.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=71, z=-90} BlockPos{x=-64, y=69, z=-90}
+[07Jan2025 02:33:23.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-92} BlockPos{x=-61, y=69, z=-92}
+[07Jan2025 02:33:24.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-92} BlockPos{x=-61, y=69, z=-92}
+[07Jan2025 02:33:24.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-92} BlockPos{x=-61, y=69, z=-92}
+[07Jan2025 02:33:24.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=71, z=-93} BlockPos{x=-61, y=69, z=-94}
+[07Jan2025 02:33:28.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=70, z=-92} BlockPos{x=-69, y=69, z=-91}
+[07Jan2025 02:33:30.995] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[07Jan2025 02:33:30.997] [Server thread/INFO] [twilightforest/]: Safely rerouted to long range portal. Return trip not guaranteed.
+[07Jan2025 02:33:35.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[07Jan2025 02:33:35.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosuePastor moved too quickly! -46.72706703157608,-65.67647087614428,812.0555376152913
+[07Jan2025 02:33:56.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 302xdwill moved too quickly! 9.853037038782361,0.0,2.489039192116614
+[07Jan2025 02:33:56.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel moved too quickly! 9.53955550629452,3.0,2.2151966525410813
+[07Jan2025 02:33:56.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[07Jan2025 02:34:06.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36376, l='ServerLevel[world]', x=7.50, y=77.00, z=232.50]
+[07Jan2025 02:35:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has made the advancement [Mine? Mine? Mine?]
+[07Jan2025 02:35:58.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel moved too quickly! -46.944657386902996,-65.95327914164065,811.7346209424538
+[07Jan2025 02:37:28.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [The Silence of the Forest]
+[07Jan2025 02:37:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor was doomed to fall by robizen69
+[07Jan2025 02:37:30.309] [Server thread/INFO] [tombstone/]: The player jhosuePastor has successfully been saved
+[07Jan2025 02:37:35.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosuePastor moved too quickly! -46.147966172766886,-65.92159999847412,811.1489329944038
+[07Jan2025 02:37:50.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 was slain by jhosuePastor
+[07Jan2025 02:37:50.981] [Server thread/INFO] [tombstone/]: The player robizen69 has successfully been saved
+[07Jan2025 02:38:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 was slain by jhosuePastor
+[07Jan2025 02:38:13.256] [Server thread/INFO] [tombstone/]: The player robizen69 has successfully been saved
+[07Jan2025 02:38:19.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosuePastor lost connection: Disconnected
+[07Jan2025 02:38:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor left the game
+[07Jan2025 02:38:25.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 moved too quickly! 46.82912436982981,66.07840000152588,-811.0212206618326
+[07Jan2025 02:38:25.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! 47.863887930502436,66.32352912385574,-810.4202457538415
+[07Jan2025 02:39:05.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52366, l='ServerLevel[world]', x=5.50, y=77.00, z=232.50]
