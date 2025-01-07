@@ -827,3 +827,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 02:48:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
 [07Jan2025 02:49:07.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:46071] logged in with entity id 59440 at (10.552442022732002, 5.0, 1030.5830944037536)
 [07Jan2025 02:49:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[07Jan2025 02:51:52.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Zombie
+[07Jan2025 02:51:52.462] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:52:08.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was at a loss for words after being killed by Death Tome
+[07Jan2025 02:52:08.367] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:54:54.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [Not Today, Thank You]
+[07Jan2025 02:54:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was shot by Skeleton
+[07Jan2025 02:54:58.441] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:55:46.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has made the advancement [Ambush]
+[07Jan2025 02:55:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has made the advancement [Not Today, Thank You]
+[07Jan2025 02:56:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill was killed by Zombie using magic
+[07Jan2025 02:56:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Your First Grave]
+[07Jan2025 02:56:04.266] [Server thread/INFO] [tombstone/]: The player 302xdwill has successfully been saved
+[07Jan2025 02:56:26.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 drowned whilst trying to escape Skeleton
+[07Jan2025 02:56:27.146] [Server thread/INFO] [tombstone/]: The player robizen69 has successfully been saved
+[07Jan2025 02:56:32.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 moved too quickly! -46.148321026856415,-65.92159999847412,811.8373220328779
+[07Jan2025 02:56:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was schooled by Death Tome
+[07Jan2025 02:56:35.386] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:56:38.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel moved too quickly! -46.54156182883765,-65.98491339166132,811.5638882108208
+[07Jan2025 02:57:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [A Strange Grave Dust]
+[07Jan2025 02:58:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has made the advancement [Sweet Dreams]
+[07Jan2025 02:58:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was blown up by Creeper
+[07Jan2025 02:58:25.772] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
