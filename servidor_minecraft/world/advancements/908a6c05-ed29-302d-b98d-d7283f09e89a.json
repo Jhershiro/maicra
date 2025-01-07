@@ -128,10 +128,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-07 01:50:43 +0000",
+      "minecraft:sparse_jungle": "2025-01-07 02:16:12 +0000",
       "minecraft:lukewarm_ocean": "2025-01-07 01:51:07 +0000",
       "minecraft:river": "2025-01-07 02:05:16 +0000",
       "minecraft:forest": "2025-01-07 01:49:37 +0000",
-      "minecraft:savanna": "2025-01-07 01:51:46 +0000"
+      "minecraft:jungle": "2025-01-07 02:15:05 +0000",
+      "minecraft:savanna": "2025-01-07 01:51:46 +0000",
+      "minecraft:plains": "2025-01-07 02:16:48 +0000"
     },
     "done": false
   },
@@ -195,6 +198,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-07 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-07 02:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-07 02:10:06 +0000"
@@ -206,6 +221,12 @@
       "cooked_mutton": "2025-01-07 02:12:43 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-07 02:23:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

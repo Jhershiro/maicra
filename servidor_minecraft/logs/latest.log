@@ -683,3 +683,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 02:16:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 joined the game
 [07Jan2025 02:18:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [Isn't It Iron Pick]
 [07Jan2025 02:18:17.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11627, l='ServerLevel[world]', x=-193.50, y=71.00, z=50.50]
+[07Jan2025 02:18:54.682] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11835, l='ServerLevel[world]', x=-200.50, y=72.00, z=40.50]
+[07Jan2025 02:20:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [Suit Up]
+[07Jan2025 02:21:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was slain by Spider
+[07Jan2025 02:21:57.807] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:22:20.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel was kicked for floating too long!
+[07Jan2025 02:22:20.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel lost connection: Flying is not enabled on this server
+[07Jan2025 02:22:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel left the game
+[07Jan2025 02:22:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has made the advancement [Getting an Upgrade]
+[07Jan2025 02:22:40.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jal_Pawel[/127.109.9.172:52641] logged in with entity id 13719 at (15.266111605721395, 78.47299238931866, -486.6866057893898)
+[07Jan2025 02:22:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel joined the game
+[07Jan2025 02:23:37.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Acquire Hardware]
+[07Jan2025 02:23:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Isn't It Iron Pick]
+[07Jan2025 02:23:58.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Diamonds!]
+[07Jan2025 02:24:11.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 302xdwill[/127.255.32.147:59061] logged in with entity id 15148 at (2.5, 69.0, -28.5)
+[07Jan2025 02:24:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill joined the game
+[07Jan2025 02:24:11.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has completed the challenge [The Undead]
+[07Jan2025 02:24:11.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Ice and Fire]
+[07Jan2025 02:25:34.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 was kicked for floating too long!
+[07Jan2025 02:25:34.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 lost connection: Flying is not enabled on this server
+[07Jan2025 02:25:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 left the game
+[07Jan2025 02:26:32.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robizen69[/127.37.56.230:39991] logged in with entity id 16138 at (29.610111512599726, 68.17675927506424, -62.95024698082057)
+[07Jan2025 02:26:32.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 joined the game
+[07Jan2025 02:27:02.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 lost connection: Timed out
+[07Jan2025 02:27:02.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 left the game
+[07Jan2025 02:27:16.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Stone Age]
+[07Jan2025 02:27:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor was burnt to a crisp whilst fighting Barrel Zombie
+[07Jan2025 02:27:31.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Your First Grave]
+[07Jan2025 02:27:31.059] [Server thread/INFO] [tombstone/]: The player jhosuePastor has successfully been saved
+[07Jan2025 02:27:40.898] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49bcbdc4[id=<null>,name=robizen69,properties={},legacy=false] (/127.37.56.230:59759) lost connection: Disconnected
+[07Jan2025 02:27:58.188] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[07Jan2025 02:27:58.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[07Jan2025 02:27:58.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[07Jan2025 02:27:58.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[07Jan2025 02:27:58.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[07Jan2025 02:27:58.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Jan2025 02:27:58.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Jan2025 02:27:58.329] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Jan2025 02:28:00.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[07Jan2025 02:28:00.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[07Jan2025 02:28:00.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[07Jan2025 02:28:00.445] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[07Jan2025 02:28:00.897] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[07Jan2025 02:28:00.898] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[07Jan2025 02:28:00.898] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[07Jan2025 02:28:00.898] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[07Jan2025 02:28:01.357] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[07Jan2025 02:28:01.358] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Jan2025 02:28:01.358] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Jan2025 02:28:01.358] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Jan2025 02:28:03.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[07Jan2025 02:28:03.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[07Jan2025 02:28:03.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[07Jan2025 02:28:03.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[07Jan2025 02:28:04.335] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[07Jan2025 02:28:04.336] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Jan2025 02:28:04.336] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Jan2025 02:28:04.336] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Jan2025 02:28:09.981] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[07Jan2025 02:28:09.982] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[07Jan2025 02:28:09.982] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[07Jan2025 02:28:09.982] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[07Jan2025 02:28:11.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel moved too quickly! -8.680115639937675,-2.6751348970321374,-4.61341895885171
+[07Jan2025 02:28:11.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! 2.9608598315003993,-1.2712241076924897,9.678021192112453
+[07Jan2025 02:28:11.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[07Jan2025 02:28:13.202] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24d1cd21[id=<null>,name=robizen69,properties={},legacy=false] (/127.37.56.230:34333) lost connection: Disconnected
+[07Jan2025 02:28:18.634] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[07Jan2025 02:28:18.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[07Jan2025 02:28:18.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[07Jan2025 02:28:18.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[07Jan2025 02:28:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosuePastor has made the advancement [Mine? Mine? Mine?]
+[07Jan2025 02:29:00.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aa0ed12[id=<null>,name=robizen69,properties={},legacy=false] (/127.37.56.230:35763) lost connection: Disconnected
