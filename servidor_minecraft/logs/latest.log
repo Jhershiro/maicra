@@ -849,3 +849,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 02:58:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has made the advancement [Sweet Dreams]
 [07Jan2025 02:58:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was blown up by Creeper
 [07Jan2025 02:58:25.772] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 03:00:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by 302xdwill
+[07Jan2025 03:00:28.099] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 03:00:32.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! -46.408932413152286,-65.92159999847412,811.9329106127789
+[07Jan2025 03:00:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel withered away whilst fighting Death Tome
+[07Jan2025 03:00:34.010] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 03:01:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill was at a loss for words after being killed by Death Tome
+[07Jan2025 03:01:08.908] [Server thread/INFO] [tombstone/]: The player 302xdwill has successfully been saved
+[07Jan2025 03:01:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has made the advancement [Knowledge of Death]
+[07Jan2025 03:01:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 302xdwill has reached the goal [Here They Come]
+[07Jan2025 03:03:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was doomed to fall by Death Tome
+[07Jan2025 03:03:28.810] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 03:03:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel withered away whilst fighting 302xdwill
+[07Jan2025 03:03:49.507] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 03:03:56.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! -46.55632489451201,-65.95327914164065,811.0091281365857
+[07Jan2025 03:05:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was slain by Death Tome
+[07Jan2025 03:05:16.872] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 03:06:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 was shot by Skeleton
+[07Jan2025 03:06:19.750] [Server thread/INFO] [tombstone/]: The player robizen69 has successfully been saved
+[07Jan2025 03:07:18.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 moved too quickly! -46.554508629845785,-65.92159999847412,811.8502598206973
+[07Jan2025 03:09:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Corpse Fly
+[07Jan2025 03:09:49.261] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 03:09:52.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/70013, l='ServerLevel[world]', x=6.50, y=77.00, z=230.50]
