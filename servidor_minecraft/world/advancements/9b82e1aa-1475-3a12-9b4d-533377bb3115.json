@@ -213,8 +213,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "tropical_fish": "2025-01-07 02:28:36 +0000",
+      "pumpkin_pie": "2025-01-07 02:40:20 +0000",
       "rotten_flesh": "2025-01-07 01:40:21 +0000",
       "melon_slice": "2025-01-07 02:18:41 +0000",
+      "beetroot": "2025-01-07 02:40:52 +0000",
       "golden_carrot": "2025-01-07 02:30:37 +0000"
     },
     "done": false
@@ -289,6 +291,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-07 02:20:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-07 02:35:59 +0000"
     },
     "done": true
   },

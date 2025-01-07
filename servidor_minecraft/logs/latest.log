@@ -797,3 +797,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 02:38:25.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robizen69 moved too quickly! 46.82912436982981,66.07840000152588,-811.0212206618326
 [07Jan2025 02:38:25.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! 47.863887930502436,66.32352912385574,-810.4202457538415
 [07Jan2025 02:39:05.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52366, l='ServerLevel[world]', x=5.50, y=77.00, z=232.50]
+[07Jan2025 02:40:06.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was stung to death
+[07Jan2025 02:40:06.759] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:40:55.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has made the advancement [The Silence of the Forest]
+[07Jan2025 02:41:59.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was shot by Skeleton
+[07Jan2025 02:41:59.335] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:42:29.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has made the advancement [The Silence of the Forest]
+[07Jan2025 02:43:03.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Nightmare Stalker
+[07Jan2025 02:43:03.318] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:43:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was slain by Spider
+[07Jan2025 02:43:22.363] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:43:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 was slain by The Swarmer
+[07Jan2025 02:43:36.994] [Server thread/INFO] [tombstone/]: The player robizen69 has successfully been saved
+[07Jan2025 02:43:38.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=71, z=144}
+[07Jan2025 02:43:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has reached the goal [Chain Death]
+[07Jan2025 02:43:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Dread Hound
+[07Jan2025 02:43:40.582] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:43:52.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was slain by Husk
+[07Jan2025 02:43:52.018] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:44:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel was slain by Husk
+[07Jan2025 02:44:01.835] [Server thread/INFO] [tombstone/]: The player Jal_Pawel has successfully been saved
+[07Jan2025 02:47:09.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Naga
+[07Jan2025 02:47:09.554] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[07Jan2025 02:47:32.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has reached the goal [Time To Even The Scales]
+[07Jan2025 02:47:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [The Silence of the Forest]
+[07Jan2025 02:47:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has reached the goal [Time To Even The Scales]
+[07Jan2025 02:47:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robizen69 has reached the goal [Time To Even The Scales]
+[07Jan2025 02:48:42.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Timed out
+[07Jan2025 02:48:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[07Jan2025 02:49:07.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:46071] logged in with entity id 59440 at (10.552442022732002, 5.0, 1030.5830944037536)
+[07Jan2025 02:49:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
