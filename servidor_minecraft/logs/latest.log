@@ -598,3 +598,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 01:37:08.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
 [09Jan2025 01:45:06.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Disconnected
 [09Jan2025 01:45:06.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[09Jan2025 01:54:35.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:33571] logged in with entity id 4129 at (18.78574507718283, 72.0, 146.30331921778358)
+[09Jan2025 01:54:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[09Jan2025 01:55:55.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro moved too quickly! -45.98721268080944,-65.92159999847412,811.0808089318011
+[09Jan2025 01:56:33.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro has made the advancement [Funeral Theft]
+[09Jan2025 01:58:18.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Disconnected
+[09Jan2025 01:58:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
