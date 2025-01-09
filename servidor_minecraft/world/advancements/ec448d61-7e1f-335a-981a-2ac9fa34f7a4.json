@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-09 02:05:08 +0000",
       "minecraft:beach": "2025-01-07 01:12:25 +0000",
       "minecraft:sparse_jungle": "2025-01-07 02:16:23 +0000",
       "minecraft:lukewarm_ocean": "2025-01-07 01:40:12 +0000",
@@ -345,6 +346,18 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-09 01:56:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-09 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-09 02:13:46 +0000"
     },
     "done": true
   },
