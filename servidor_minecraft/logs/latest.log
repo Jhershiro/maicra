@@ -728,3 +728,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 03:06:14.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@343cdd13[id=<null>,name=Jhershiro,properties={},legacy=false] (/127.95.210.133:44701) lost connection: Disconnected
 [09Jan2025 03:06:44.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20757, l='ServerLevel[world]', x=-201.50, y=72.00, z=38.50]
 [09Jan2025 03:06:46.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20761, l='ServerLevel[world]', x=-200.50, y=72.00, z=38.50]
+[09Jan2025 03:19:48.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jal_Pawel lost connection: Disconnected
+[09Jan2025 03:19:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel left the game
