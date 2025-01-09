@@ -696,3 +696,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 02:22:51.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro was kicked for floating too long!
 [09Jan2025 02:22:51.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Flying is not enabled on this server
 [09Jan2025 02:22:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[09Jan2025 02:57:23.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jal_Pawel[/127.26.219.78:36457] logged in with entity id 15388 at (19.120293038139135, 72.0, 145.51904606193094)
+[09Jan2025 02:57:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel joined the game
+[09Jan2025 02:57:57.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:59789] logged in with entity id 16054 at (-546.623304766869, 65.97521275329463, -13.44364513355507)
+[09Jan2025 02:57:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[09Jan2025 02:58:20.522] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16580, l='ServerLevel[world]', x=-568.50, y=72.00, z=-53.50]
+[09Jan2025 02:58:24.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro was kicked for floating too long!
+[09Jan2025 02:58:24.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Flying is not enabled on this server
+[09Jan2025 02:58:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[09Jan2025 02:59:09.278] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37aabd04[id=<null>,name=Jhershiro,properties={},legacy=false] (/127.95.210.133:34563) lost connection: Disconnected
+[09Jan2025 02:59:27.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:42399] logged in with entity id 16760 at (-546.623304766869, 64.69882571947329, -13.44364513355507)
+[09Jan2025 02:59:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[09Jan2025 03:00:14.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro was kicked for floating too long!
+[09Jan2025 03:00:14.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Flying is not enabled on this server
+[09Jan2025 03:00:14.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[09Jan2025 03:00:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jal_Pawel has made the advancement [Sweet Dreams]
+[09Jan2025 03:01:31.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.95.210.133:39321] logged in with entity id 17914 at (-569.6660836655597, 23.80944457757176, -14.603494734564233)
+[09Jan2025 03:01:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[09Jan2025 03:02:14.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18580, l='ServerLevel[world]', x=-497.50, y=70.00, z=23.50]
+[09Jan2025 03:02:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was doomed to fall
+[09Jan2025 03:02:53.986] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[09Jan2025 03:04:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro was slain by Direwolf
+[09Jan2025 03:04:03.553] [Server thread/INFO] [tombstone/]: The player Jhershiro has successfully been saved
+[09Jan2025 03:04:08.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20235, l='ServerLevel[world]', x=-496.50, y=70.00, z=22.50]
+[09Jan2025 03:04:14.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro was kicked for floating too long!
+[09Jan2025 03:04:14.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Flying is not enabled on this server
+[09Jan2025 03:04:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
+[09Jan2025 03:04:16.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20315, l='ServerLevel[world]', x=-195.50, y=71.00, z=50.50]
+[09Jan2025 03:05:01.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38058be1[id=<null>,name=Jhershiro,properties={},legacy=false] (/127.95.210.133:36901) lost connection: Disconnected
+[09Jan2025 03:05:36.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44d7d1c6[id=<null>,name=Jhershiro,properties={},legacy=false] (/127.95.210.133:37761) lost connection: Disconnected
+[09Jan2025 03:06:14.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@343cdd13[id=<null>,name=Jhershiro,properties={},legacy=false] (/127.95.210.133:44701) lost connection: Disconnected
+[09Jan2025 03:06:44.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20757, l='ServerLevel[world]', x=-201.50, y=72.00, z=38.50]
+[09Jan2025 03:06:46.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20761, l='ServerLevel[world]', x=-200.50, y=72.00, z=38.50]
